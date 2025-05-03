@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # 📝 React ToDo List App
 
 This is a simple and interactive **ToDo List App** built using React. It allows users to add tasks, mark them as complete, and delete them dynamically. The app ensures that duplicate tasks are not added.
